@@ -7,7 +7,7 @@ class script(object):
     # ⚠️ Please don't change our credits 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾 & 𝙳𝙴𝚅 👇🏻
 
     ABOUT_TXT = """<b><blockquote>✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}</blockquote>\n
-<blockquote>✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/mallumovieworldmain>MMW BOTZ</a>
+<blockquote>✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Leomc_bot</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -128,8 +128,8 @@ Jᴜsᴛ Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ /feedback"""
     CAPTION = """Hey 👋
 ❀Fɪʟᴇ Nᴀᴍᴇ:- {file_name}
 ❀Fɪʟᴇ Sɪᴢᴇ:-{file_size}
-⍟<b><a href=https://t.me/mallumovieworldmain>Join For Movies</a></b>
-⍟<b><a href=https://t.me/mallumovieworldmain1>Join For Updates</a></b>"""
+⍟<b><a href=https://t.me/filmfactorygroup1>Join For Movies</a></b>
+⍟<b><a href=https://t.me/filmfactorygroup1>Join For Updates</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}</b> \n‌‌‌‌IMDb Data:
