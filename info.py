@@ -19,8 +19,8 @@ API_HASH = environ['API_HASH']
 BOT_TOKEN = environ['BOT_TOKEN']
 
 
-BOT_USERNAME = environ.get("BOT_USERNAME", "Kevinbotmallubot")
-BOT_NAME = environ.get("BOT_NAME", "『👑』 Dɪᴀɴᴀ Bᴏᴛ ◢ ◤")
+BOT_USERNAME = environ.get("BOT_USERNAME", "Clonefiltermc_bot")
+BOT_NAME = environ.get("BOT_NAME", "marco filter bot")
 HORRI_API_KEY = environ.get('HORRI_API_KEY', 'horridapi_NgH4odfBymrB2OmTHLJ7gw_free_key')
 
 # Bot settings
@@ -69,8 +69,8 @@ IS_SHORTLINK = is_enabled((environ.get('IS_SHORTLINK', 'False')), False)
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 PORT = environ.get("PORT", "8080")
 REQUESTED_CHANNEL = int(environ.get('REQUESTED_CHANNEL', 0))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'maxmallumovieworldsupport')
-UPDATE_CHANNEL = environ.get('UPDATE_CHANNEL', 'https://t.me/mallumovieworldmain1') # add here your update channel link
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'filmfactorygroup1')
+UPDATE_CHANNEL = environ.get('UPDATE_CHANNEL', 'https://t.me/CINEMAUNIVERSE13') # add here your update channel link
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
 AUTO_DELETE = is_enabled((environ.get('AUTO_DELETE', "True")), True)
